@@ -1,0 +1,16 @@
+{
+    "name": "alfred/interview",
+    "description": "Interview questions on php and python.",
+    "type": "project",
+    "require": {
+        "kahlan/kahlan": "^3.1"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Alfred",
+            "email": "alfredleo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
